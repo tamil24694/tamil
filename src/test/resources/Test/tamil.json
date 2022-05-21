@@ -1,0 +1,14 @@
+{
+	"FirstName": "Tamil",
+	"LastName": "Selvan",
+	"Email": "tamil@gmail.com",
+	"PhoneNo": 8248626910,
+	"Password": "tamil12345",
+	"ConfirmPassword": "tamil12345",
+	"DateOfBirth": {
+		"Day": 24,
+		"Month": "june",
+		"Year": 1994
+	},
+	"Gender": "Male"
+}
