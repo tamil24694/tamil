@@ -20,6 +20,11 @@ public class APITask {
 		System.out.println(asPrettyString);
 		
 		
+		System.out.println(asPrettyString);
+		System.out.println(asPrettyString);
+		System.out.println(asPrettyString);
+		
+		
 		
 	}
 }
