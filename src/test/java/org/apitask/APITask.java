@@ -16,6 +16,8 @@ public class APITask {
 		ResponseBody body = response.getBody();
 		String asPrettyString = body.asPrettyString();
 		System.out.println(asPrettyString);
+		System.out.println(asPrettyString);
+		System.out.println(asPrettyString);
 		
 		
 		
